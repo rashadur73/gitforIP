@@ -1,1 +1,1 @@
-This is a readme file for gitforIP
+It is a readme file for gitforIP > for the students of the course "Internet Programming"
